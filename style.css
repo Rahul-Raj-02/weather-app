@@ -1,0 +1,9 @@
+body{
+    background: linear-gradient(135deg, #74ebd5, #ACB6E5);
+    font-family: 'Poppins', sans-serif;
+}
+.weather-card{
+    background: #ffffff33;
+    width: 100%;
+    max-width: 500px;
+}
